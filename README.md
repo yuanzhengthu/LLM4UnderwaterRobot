@@ -14,7 +14,7 @@ Feast your eyes on these demo images! Witness how our method works its magic to 
 ### Demo Video
 Hold your breath and watch our demo video to see our method in action for object detection underwater. Spoiler: It's fin-tastic!
 
-![Demo Video](ForReadme/1.gif)
+![Demo Video](./ForReadme/1.gif).
 
 ## 🛠️ Environment Setup
 Setting up your environment is as easy as swimming with the tide. Just run:
