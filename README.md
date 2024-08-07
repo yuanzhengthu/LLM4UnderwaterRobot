@@ -28,4 +28,6 @@ To start your underwater imaging adventure, simply run:
 python main2024.py
 ```
 ## 📚 Citation
-We know you're excited to cite this groundbreaking work. Stay tuned! The citation details are coming soon.
+We know you're excited to cite this groundbreaking work—stay tuned for citation details, which will be coming soon!
+
+If you find this work useful, please don't forget to cite us and give our repository a star to help others discover this method. Feel free to reach out to me at yuanzheng@berkeley.edu for any questions or feedback.
