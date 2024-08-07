@@ -9,7 +9,7 @@ This repository holds the code for our work on **LLM-Driven Unsupervised Genetic
 ### Demo Images
 Feast your eyes on these demo images! Witness how our method works its magic to enhance underwater images to superresolution levels. 
 
-![Demo Image](path/to/demo-image.jpg)
+![Demo Image](ForReadme/1.png)
 
 ### Demo Video
 Hold your breath and watch our demo video to see our method in action for object detection underwater. Spoiler: It's fin-tastic!
